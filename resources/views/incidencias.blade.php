@@ -11,7 +11,7 @@
     <div class='container'>
         <h3>Incidencias</h3>
 
-        <p><a class='mb-3' href='/newIncidencia'>Nueva</p>
+        <p><a class='mb-3' href='/newIncidencia'>Nueva</a></p>
 
         <table class="table table-success table-striped">
         
